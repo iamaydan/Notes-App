@@ -1,0 +1,44 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Note 1",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed mi imperdiet lorem feugiat molestie ac id libero. Fusce eu fringilla mauris, et pellentesque augue. Nunc at est eu tortor convallis efficitur. Quisque et faucibus libero, lobortis placerat sem. Curabitur placerat mi quis magna convallis placerat. Vivamus at tortor velit.",
+      "date": 1585750954690,
+      "arch": false,
+      "color": "#FFA07A"
+    },
+    {
+      "id": 2,
+      "title": "Note 2",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed mi imperdiet lorem feugiat molestie ac id libero. Fusce eu fringilla mauris, et pellentesque augue. Nunc at est eu tortor convallis efficitur. Quisque et faucibus libero, lobortis placerat sem. Curabitur placerat mi quis magna convallis placerat. Vivamus at tortor velit.",
+      "date": 1585750954690,
+      "arch": false,
+      "color": "#2E8B57"
+    },
+    {
+      "id": 3,
+      "title": "Note 3",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed mi imperdiet lorem feugiat molestie ac id libero. Fusce eu fringilla mauris, et pellentesque augue. Nunc at est eu tortor convallis efficitur. Quisque et faucibus libero, lobortis placerat sem. Curabitur placerat mi quis magna convallis placerat. Vivamus at tortor velit.",
+      "date": 1585750954690,
+      "arch": false,
+      "color": "#FF6347"
+    },
+    {
+      "id": 4,
+      "title": "Note 4",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed mi imperdiet lorem feugiat molestie ac id libero. Fusce eu fringilla mauris, et pellentesque augue. Nunc at est eu tortor convallis efficitur. Quisque et faucibus libero, lobortis placerat sem. Curabitur placerat mi quis magna convallis placerat. Vivamus at tortor velit.",
+      "date": 1585750954690,
+      "arch": true,
+      "color": "#8A2BE2"
+    },
+    {
+      "id": 5,
+      "title": "Note 5",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed mi imperdiet lorem feugiat molestie ac id libero. Fusce eu fringilla mauris, et pellentesque augue. Nunc at est eu tortor convallis efficitur. Quisque et faucibus libero, lobortis placerat sem. Curabitur placerat mi quis magna convallis placerat. Vivamus at tortor velit.",
+      "date": 1585750954690,
+      "arch": false,
+      "color": "#20B2AA"
+    }
+  ]
+}
